@@ -1,6 +1,6 @@
 # Factory--Clone
 
->Simple and modern design that reflects professionalism is the main feature of Factorian. 
+>Simple and modern design that reflects professionalism is the main feature of Factory. 
 The flexibility and customizability it provides makes it a multipurpose business template, which is suitable for any business.Making this for personal practice.Design idea and image collected form Factorian.
 
 
